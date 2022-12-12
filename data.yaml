@@ -1,0 +1,4 @@
+train: C:/Users/cancering69/PycharmProjects/SeniorProject/datasets/train/images
+val: C:/Users/cancering69/PycharmProjects/SeniorProject/datasets/valid/images
+nc: 2
+names: ['CT', 'T']
